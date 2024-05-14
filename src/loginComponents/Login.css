@@ -9,7 +9,7 @@
 .login-box {
   width: 300px;
   padding: 30px;
-  background-color: #C08900;  
+  background-color: #C08900;
   border-radius: 10px;
 }
 
@@ -34,7 +34,7 @@ button {
 }
 
 button:hover {
-  background-color: #fbfbfb; /* Cor verde escura */
+  background-color: #e8e7e7; /* Cor verde escura */
 }
 
 .forgot-password {
@@ -49,6 +49,20 @@ button:hover {
 
 .forgot-password-link:hover {
   text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+}
+
+.coin-title {
+  width: 168px;
+  height: 78.02px; /* Ajuste a altura de acordo com a linha */
+  position: absolute;
+  top: 305px;
+  left: calc(50% - 84px); /* Calcula o valor para centralizar horizontalmente */
+  font-family: 'Montserrat Alternates', sans-serif; /* Fonte Montserrat Alternates */
+  font-size: 40px; /* Tamanho da fonte */
+  font-weight: 600; /* Peso da fonte */
+  text-align: center; /* Centraliza o texto */
+  line-height: 20.02px; /* Altura da linha */
+  color: #C08900; /* Cor do texto */
 }
 
 
