@@ -28,13 +28,13 @@ button {
 }
 
 button {
-  background-color: #f4f4f4; /* Cor verde */
+  background-color: #f4f4f4; /* Cor white */
   color: rgb(16, 15, 15);
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #e8e7e7; /* Cor verde escura */
+  background-color: #e8e7e7; /* Cor clara */
 }
 
 .forgot-password {
